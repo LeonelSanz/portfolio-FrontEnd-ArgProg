@@ -1,4 +1,5 @@
 export const environment = {
-  production: true,
-  URL: 'http://localhost:8080/'
-};
+
+    production: true,
+    URL: 'https://portfolio-backend-argprog.onrender.com/'
+  };
